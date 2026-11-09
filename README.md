@@ -43,7 +43,7 @@
 
 ```sh
 # Завантаження скрипта
-curl -O https://raw.githubusercontent.com/<YOUR_USER>/chimera-installer/main/chimera-install-auto.sh
+curl -O https://raw.githubusercontent.com/anon/chimera-installer/main/chimera-install-auto.sh
 
 # Надання прав на виконання
 chmod +x chimera-install-auto.sh
